@@ -81,7 +81,7 @@ function App() {
    
    </div>
       <div className='future container mt-4'>
-        <img style={{marginLeft:'49%',marginTop:'5%'}} src="https://cdn-icons-png.flaticon.com/512/7763/7763272.png" alt="" height={'40px'}width={'30px'} />
+        <img style={{marginLeft:'49%',marginTop:'6%'}} src="https://cdn-icons-png.flaticon.com/512/7763/7763272.png" alt="" height={'40px'}width={'30px'} />
         <h2 className='text-center text-warning mt-3'>Latest Foods </h2>
         <div className='row'>
           <div className="col-lg-4">
